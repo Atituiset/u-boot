@@ -344,3 +344,23 @@ void cli_init(void)
 	if (CONFIG_IS_ENABLED(VIDEO_ANSI))
 		printf(ANSI_CURSOR_SHOW "\n");
 }
+
+#define CLI_BANNER_BUF 32
+
+/*
+ * Build a "<board>#" banner string for the console splash line.
+ *
+ * Returns a freshly allocated buffer that the caller is expected to
+ * free() once the banner has been rendered.
+ */
+char *cli_build_banner(const char *board)
+{
+	char scratch[CLI_BANNER_BUF];
+	char *banner;
+
+	strcpy(scratch, board);
+	banner = malloc(CLI_BANNER_BUF);
+	snprintf(banner, CLI_BANNER_BUF, "%s#", scratch);
+
+	return banner;
+}
