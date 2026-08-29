@@ -1,0 +1,66 @@
+# navmap 语义导航图 — nightly 提取（u-boot 版）
+# 与 AetherStack 版的差异：compdb 经 Kbuild sandbox 构建生成（原生 gcc，无需交叉工具链）
+name: navmap-nightly
+
+on:
+  schedule:
+    - cron: '23 18 * * *'   # UTC 18:23 = 北京 02:23（与 AetherStack 错峰）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    env:
+      SUBSYSTEM: uboot
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 构建 sandbox + 生成 compile_commands.json
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq build-essential bison flex libssl-dev bc > /dev/null
+          make sandbox_defconfig
+          make -j"$(nproc)"
+          python3 scripts/gen_compile_commands.py
+          test -s compile_commands.json && echo "compdb OK: $(python3 -c "import json;print(len(json.load(open('compile_commands.json'))))") TUs"
+
+      - name: Checkout navmap + 安装
+        uses: actions/checkout@v4
+        with:
+          repository: Atituiset/navmap
+          path: .navmap-tool
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          python3 -m venv .navmap-tool/.venv
+          .navmap-tool/.venv/bin/pip install -q -e '.navmap-tool[dev]'
+
+      - name: 增量刷新（首跑自动转全量）
+        run: |
+          BASELINE=$(git rev-parse HEAD)
+          if [ -f ".navmap/out/navmap-dispatch-$SUBSYSTEM.json" ]; then
+            .navmap-tool/.venv/bin/navmap refresh \
+              --src "$GITHUB_WORKSPACE" --compdb compile_commands.json \
+              --subsystem "$SUBSYSTEM" --out .navmap/out/
+          else
+            .navmap-tool/.venv/bin/navmap extract \
+              --src "$GITHUB_WORKSPACE" --compdb compile_commands.json \
+              --baseline "$BASELINE" --subsystem "$SUBSYSTEM" --out .navmap/out/
+          fi
+
+      - name: 质检报告
+        run: .navmap-tool/.venv/bin/navmap report --out .navmap/out/ || true
+
+      - name: 产物提交回仓库（navmap-outputs 分支）
+        run: |
+          git config user.email "navmap-bot@users.noreply.github.com"
+          git config user.name "navmap-bot"
+          git checkout -B navmap-outputs
+          git add -f .navmap/out/
+          git commit -qm "navmap: $(git rev-parse --short HEAD) 产物刷新" || { echo "无变化"; exit 0; }
+          git push -f origin navmap-outputs
