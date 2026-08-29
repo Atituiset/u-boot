@@ -22,9 +22,8 @@ jobs:
 
       - name: 构建 sandbox + 生成 compile_commands.json
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq build-essential bison flex libssl-dev bc swig python3-dev libgnutls28-dev uuid-dev > /dev/null
+          sudo apt-get update -qq && sudo apt-get install -y -qq build-essential bison flex libssl-dev bc swig python3-dev libgnutls28-dev uuid-dev efitools > /dev/null
           make sandbox_defconfig
-          scripts/config -d EFI_LOADER -d EFI_LOADER_HII   # capsule_esl 依赖外部 cert-to-efi-sig-list，与 compdb 无关
           make -j"$(nproc)"
           python3 scripts/gen_compile_commands.py
           test -s compile_commands.json && echo "compdb OK: $(python3 -c "import json;print(len(json.load(open('compile_commands.json'))))") TUs"
