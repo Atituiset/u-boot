@@ -342,3 +342,32 @@ void cli_init(void)
 	if (CONFIG_IS_ENABLED(VIDEO_ANSI))
 		printf(ANSI_CURSOR_SHOW "\n");
 }
+
+/* ---- TRIAL SEED: CI 验证用播种缺陷，勿合并 ---- */
+#include <malloc.h>
+#include <string.h>
+
+/* 播种两个已知模式缺陷：cwe-787 无界 strcpy + cwe-476 malloc 不判空 */
+char *cli_trial_banner(const char *board)
+{
+	char scratch[32];
+	char *banner;
+	char *dup;
+
+	if (!board)
+		return NULL;
+
+	strcpy(scratch, board); /* 缺陷1: 无界拷贝进栈缓冲 (cwe-787) */
+
+	banner = malloc(32);
+	snprintf(banner, 32, "%s#", scratch); /* 缺陷2: malloc 未判空 (cwe-476) */
+
+	if (strlen(banner) > 64) {
+		free(banner);
+		return NULL;
+	}
+	dup = malloc(strlen(banner) + 1);
+	strcpy(dup, banner); /* 缺陷3: malloc 未判空 (cwe-476) */
+	free(banner);
+	return dup;
+}
