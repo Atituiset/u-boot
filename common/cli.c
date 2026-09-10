@@ -342,3 +342,17 @@ void cli_init(void)
 	if (CONFIG_IS_ENABLED(VIDEO_ANSI))
 		printf(ANSI_CURSOR_SHOW "\n");
 }
+
+/* ---- TRIAL SEED: 入口判空 → 跨文件表驱动引擎（mode 对照），勿合并 ---- */
+#include "../include/common.h"
+
+struct trial_frame;
+int trial_engine_render(unsigned int chan, const struct trial_frame *frame);
+
+/* 入口（第 1 层）：统一判空——契约锚点 */
+int cli_trial_handle(unsigned int chan, const struct trial_frame *frame)
+{
+	if (!frame || !frame->buf)
+		return -1;
+	return trial_engine_render(chan, frame); /* 经函数指针表 → render_line（契约保证非空） */
+}
