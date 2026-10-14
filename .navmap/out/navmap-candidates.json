@@ -1,0 +1,7443 @@
+[
+  {
+    "file": "/home/runner/work/u-boot/u-boot/api/api.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arc/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/arm926ejs/mxs/spl_power_init.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv7/bcm281xx/clk-bcm281xx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv7/bcm281xx/clk-core.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv7/ls102xa/ls102xa_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv7/ls102xa/soc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/cache_v8.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1012a_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1028_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1028a_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1043_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1043a_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1046_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1046a_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1088_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls1088a_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls2080a_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/ls2088_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/lx2160_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/cpu/armv8/fsl-layerscape/lx2160a_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/arch-apple/rtkit.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/arch-ls102xa/ls102xa_devdis.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/arch-mxs/sys_proto.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/arch-rockchip/f_rockusb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/arch-rockchip/sdram_rk3328.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/arch-sc5xx/spl.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/arch-tegra/ivc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/armv8/mmu.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/mach-imx/mxc_i2c.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/mach-imx/sys_proto.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/mach-imx/video.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/omap_common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/omap_musb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/processor.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/include/asm/setup.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/lib/cmd_boot.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/lib/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-airoha/an7581/init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-apple/board.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-apple/sart.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-aspeed/ast2700/arm64-mmu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-aspeed/ast2700/cpu-info.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcm283x/init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcmbca/bcm4908/mmu_table.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcmbca/bcm4912/mmu_table.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcmbca/bcm63146/mmu_table.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcmbca/bcm63158/mmu_table.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcmbca/bcm6813/mmu_table.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcmbca/bcm6856/mmu_table.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-bcmbca/bcm6858/mmu_table.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-exynos/clock.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-exynos/include/mach/gpio.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-exynos/include/mach/mipi_dsim.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-exynos/mmu-arm64.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-exynos/power.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-exynos/spl_boot.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-histb/sysmap-histb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx8m/clock_imx8mm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx8m/clock_imx8mq.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx8m/soc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx8ulp/soc.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx8ulp/upower/upower_api.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx9/clock.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx9/scmi/fdt.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx9/scmi/soc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/imx9/soc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/mx7/soc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-imx/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/am62ax/am62a7_init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/am62px/am62p5_init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/am62x/am625_init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/am64x/am642_init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/arm64/arm64-mmu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/r5/common.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/r5/sysfw-loader.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-k3/sysfw-loader.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-keystone/cmd_mon.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mediatek/armv8-mem-map.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-meson/board-a1.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-meson/board-axg.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-meson/board-g12a.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-meson/board-gx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mmp/mmu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/alleycat5/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/alleycat5/soc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/armada3700/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/armada8k/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/armada8k/soc_info.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/serdes/a38x/high_speed_env_spec-38x.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/serdes/a38x/high_speed_env_spec.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/serdes/a38x/seq_exec.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-mvebu/serdes/axp/high_speed_env_spec.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-nexell/include/mach/mipi_display.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-npcm/npcm8xx/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-octeontx/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-octeontx2/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-omap2/am33xx/board.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-omap2/boot-common.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-omap2/emif-common.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-omap2/omap3/board.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-omap2/omap3/clock.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-omap2/omap5/sdram.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-owl/sysmap-owl.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-renesas/memmap-gen3.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-renesas/memmap-rzg2l.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/px30/px30.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3308/rk3308.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3328/rk3328.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3368/rk3368.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3399/rk3399.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3528/rk3528.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3568/rk3568.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3576/rk3576.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-rockchip/rk3588/rk3588.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-s5pc1xx/include/mach/gpio.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-sc5xx/sc59x_64.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-snapdragon/board.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-socfpga/include/mach/altera-sysmgr.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-socfpga/mmu-arm64_s10.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-socfpga/reset_manager_arria10.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-stm32mp/cmd_stm32key.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_serial.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-stm32mp/cmd_stm32prog/stm32prog_usb.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-stm32mp/ecdsa_romapi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-stm32mp/stm32mp1/cpu.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-stm32mp/stm32mp2/arm64-mmu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-stm32mp/tamp_nvram.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-sunxi/board.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-sunxi/dram_sun4i.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-sunxi/dram_sunxi_dw.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/arm64-mmu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/ivc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/tegra114/clock.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/tegra124/clock.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/tegra20/clock.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/tegra210/clock.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/tegra30/clock.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-tegra/xusb-padctl-common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/arm64/mem_map.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/board_init.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/boot-device/boot-device-ld11.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/boot-device/boot-device-ld4.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/boot-device/boot-device-pro5.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/boot-device/boot-device-pxs2.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/boot-device/boot-device-pxs3.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/boot-device/boot-device.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/dram/cmd_ddrmphy.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/dram/cmd_ddrphy.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/dram_init.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-uniphier/spl_board_init.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-versal-net/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-versal/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-versal2/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/arm/mach-zynqmp/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/m68k/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/microblaze/cpu/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/microblaze/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/include/asm/processor.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/lib/boot.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/lib/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-jz47xx/jz4780/jz4780.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-mtmips/include/mach/ddr.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-mtmips/mt7620/init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-mtmips/mt7621/tpl/tpl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/bootoctlinux.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-bootmem.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-helper-bgx.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-helper-cfg.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-helper-pki.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-helper-pko.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-helper-sfp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-helper-util.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-helper.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/cvmx-pko3-queue.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-bootmem.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-error.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-helper-board.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-helper-fdt.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-helper-gpio.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-helper-pko.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-helper-sfp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/cvmx-helper.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/octeon_eth.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/include/mach/octeon_fdt.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/mips/mach-octeon/octeon_fdt.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/nios2/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc83xx/cpu_init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc83xx/spd_sdram.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc83xx/traps.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/b4860_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/b4860_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/bsc9132_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/c29x_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/cpu_init_early.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/mp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/mpc8536_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/mpc8544_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/mpc8548_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p1010_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p1021_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p1023_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p2020_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p2041_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p2041_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p3041_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p3041_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p4080_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p4080_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p5040_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/p5040_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t1024_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t1024_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t1040_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t1040_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t2080_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t2080_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t4240_ids.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/t4240_serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/cpu/mpc85xx/traps.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/include/asm/cpm_8xx.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/include/asm/signal.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/powerpc/lib/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/cpu/andes/cache.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/include/asm/cpufeature.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/include/asm/smp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/lib/boot.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/lib/cache.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/lib/smp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/riscv/lib/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/sandbox/cpu/initjmp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/sandbox/cpu/os.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/sandbox/include/asm/getopt.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/sandbox/include/asm/spi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/sandbox/include/asm/state.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/sh/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/sh/lib/zimageboot.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/cpu/apollolake/cpu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/cpu/broadwell/northbridge.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/cpu/broadwell/refcode.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/cpu/intel_common/me_status.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/cpu/intel_common/mrc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/cpu/intel_common/report_platform.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/cpu/turbo.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/arch-broadwell/pei_data.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/arch-ivybridge/pei_data.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/arch-quark/mrc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/fsp/fsp_api.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/fsp1/fsp_api.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/fsp2/fsp_api.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/mp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/include/asm/sfi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/lib/acpi_s3.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/lib/bios.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/lib/bios.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/lib/bootm.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/lib/cmd_boot.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/lib/fsp/fsp_graphics.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/x86/lib/tables.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/arch/xtensa/cpu/exceptions.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/CZ.NIC/turris_1x/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/CZ.NIC/turris_1x/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/CZ.NIC/turris_omnia/turris_omnia.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/Marvell/db-88f6820-amc/db-88f6820-amc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/Marvell/db-88f6820-gp/db-88f6820-gp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/Marvell/octeontx2/board.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/Synology/ds116/ds116.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/advantech/som-db5800-som-6867/som-db5800-som-6867.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/alliedtelesis/x530/x530.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/altera/arria5-socdk/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/altera/arria5-socdk/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/altera/cyclone5-socdk/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/altera/cyclone5-socdk/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/aries/mcvevk/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/aries/mcvevk/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/aristainetos/aristainetos.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/armltd/corstone1000/corstone1000.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/armltd/total_compute/total_compute.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/armltd/vexpress64/vexpress64.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/axiado/scm3005/scm3005.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/beckhoff/mx53cx9020/mx53cx9020_video.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/bluewater/gurnard/splash_logo.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/boundary/nitrogen6x/nitrogen6x.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/broadcom/bcmns3/ns3.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/cavium/thunderx/thunderx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/compulab/common/common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/compulab/common/omap3_smc911x.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/corecourse/ac501soc/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/corecourse/ac501soc/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/corecourse/ac550soc/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/corecourse/ac550soc/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/cortina/presidio-asic/presidio.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/cssi/cmpc885/sdram.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/cssi/cmpcpro/cmpcpro.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/cssi/mcr3000/mcr3000.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/devboards/dbm-soc1/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/devboards/dbm-soc1/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/dhelectronics/dh_imx8mp/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ebv/socrates/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ebv/socrates/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/embest/mx6boards/mx6boards.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/emulation/qemu-arm/qemu-arm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/emulation/qemu-sbsa/acpi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/emulation/qemu-sbsa/qemu-sbsa.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/engicam/imx6q/imx6q.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/friendlyarm/nanopi2/nxp-fb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/gateworks/gw_ventana/gw_ventana.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/gdsys/a38x/controlcenterdc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/gdsys/a38x/hre.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ge/b1x5v2/b1x5v2.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ge/bx50v3/bx50v3.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ge/common/vpd_reader.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ge/common/vpd_reader.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ge/mx53ppd/mx53ppd_video.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/hisilicon/hikey/hikey.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/hisilicon/hikey960/hikey960.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/hisilicon/poplar/poplar.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/is1/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/is1/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/keymile/common/common.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/keymile/kmcent2/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/keymile/kmcent2/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/keymile/secu1/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/keymile/secu1/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/kobol/helios4/helios4.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/kosagi/novena/video.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/liebherr/display5/display5.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/logicpd/imx6/imx6logic.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/logicpd/omap3som/omap3logic.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/menlo/m53menlo/m53menlo.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nvidia/dalmore/pinmux-config-dalmore.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/common/arm_sleep.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/common/fman.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/common/fsl_chain_of_trust.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/common/mpc85xx_sleep.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/common/p_corenet/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/common/p_corenet/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/ls1021atsn/ls1021atsn.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/ls1021atwr/ls1021atwr.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/lx2160a/lx2160a.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/mpc8548cds/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/mpc8548cds/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/mx6sabreauto/mx6sabreauto.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/mx6sabresd/mx6sabresd.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/p1010rdb/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/p1010rdb/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/p1_p2_rdb_pc/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/p1_p2_rdb_pc/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t102xrdb/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t102xrdb/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t104xrdb/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t104xrdb/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t208xqds/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t208xqds/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t208xrdb/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t208xrdb/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t4rdb/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/nxp/t4rdb/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/phytium/durian/durian.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/phytium/pe2201/pe2201.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/phytium/pomelo/pomelo.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/raspberrypi/rpi/rpi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/renesas/common/gen4-common.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/renesas/common/rcar64-spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/samsung/exynos-mobile/exynos-mobile.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/sielaff/imx6dl-sielaff/spl.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/siemens/iot2050/board.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/socionext/developerbox/developerbox.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/socrates/law.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/socrates/tlb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/socrates/upm_table.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/softing/vining_fpga/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/softing/vining_fpga/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/solidrun/clearfog/clearfog.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/solidrun/mx6cuboxi/mx6cuboxi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/spacemit/k1/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/sr1500/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/sr1500/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/synopsys/axs10x/axs10x.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/synopsys/hsdk/env-lib.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/synopsys/hsdk/env-lib.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/synopsys/hsdk/hsdk.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/tbs/tbs2910/tbs2910.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/technexion/pico-imx6/pico-imx6.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de0-nano-soc/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de0-nano-soc/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de1-soc/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de1-soc/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de10-nano/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de10-nano/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de10-standard/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/de10-standard/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/sockit/qts/iocsr_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/terasic/sockit/qts/pinmux_config.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/thecus/n2350/n2350.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ti/am57xx/board.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ti/am64x/evm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ti/am65x/evm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ti/common/cape_detect.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ti/dra7xx/evm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ti/j721e/evm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/ti/j721s2/evm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/toradex/apalis_imx6/apalis_imx6.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/toradex/colibri_imx6/colibri_imx6.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/toradex/common/tdx-cfg-block.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/tq/tqma6/tqma6_emmc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/wandboard/wandboard.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/xilinx/versal/board.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/board/xilinx/zynqmp/zynqmp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/boot/bootflow.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/boot/bootm_os.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/boot/fdt_region.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/boot/fdt_support.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/boot/image.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/boot/scene_internal.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/boot/vbe_request.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/blkmap.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/boot.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/button.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/eficonfig.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/ethsw.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/fdt.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/ini.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/itest.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/led.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/load.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/mii.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/mvebu/bubt.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/part.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/printf.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/smbios.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/ti/pd.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/cmd/usb.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/bloblist.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/bouncebuf.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/cli_hush.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/cli_hush_upstream.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/edid.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/kgdb_stubs.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/mcheck_core.inc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/menu.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/spl/spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/spl/spl_atf.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/spl/spl_opensbi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/spl/spl_reloc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/usb_hub.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/usb_kbd.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/usb_onboard_hub.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/usb_storage.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/common/xyzModem.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/adc/rockchip-saradc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ata/sata_sil.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/bios_emulator/atibios.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/bios_emulator/x86emu/debug.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/bios_emulator/x86emu/decode.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/bios_emulator/x86emu/ops.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/bios_emulator/x86emu/prim_ops.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/block/blkmap.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/block/rkmtd.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/button/button-qcom-pmic.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/altera/clk-arria10.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/aspeed/clk_ast2600.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/aspeed/clk_ast2700.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/at91/sam9x60.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/at91/sam9x7.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/at91/sama7d65.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/at91/sama7g5.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/clk-hsdk-cgu.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/clk_versal.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/exynos/clk.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/imx/clk-fracn-gppll.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/imx/clk-imx6q.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/imx/clk-imx8mp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/imx/clk-pll14xx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/imx/clk.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mediatek/clk-mt7623.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mediatek/clk-mt8183.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mediatek/clk-mt8188.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mediatek/clk-mt8189.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mediatek/clk-mt8195.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mediatek/clk-mt8365.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mediatek/clk-mt8518.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/microchip/mpfs_clk_cfg.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mtmips/clk-mt7621.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/mvebu/armada-37xx-periph.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-milos.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-qcm2290.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-qcom.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-qcs615.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sa8775p.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sc7280.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sdm845.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm6115.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm6125.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm6350.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm7150.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm8150.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm8250.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm8550.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-sm8650.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/qcom/clock-x1e80100.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/clk-rcar-gen2.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/clk-rcar-gen3.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a774a1-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a774b1-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a774c0-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a774e1-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a7790-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a7791-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a7792-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a7794-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a7795-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a7796-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a77965-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a77970-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a77980-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a77990-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a77995-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a779a0-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a779f0-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a779g0-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a779h0-cpg-mssr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r8a78000-cpg.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/r9a07g044-cpg.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/rcar-cpg-lib.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/renesas/renesas-cpg-mssr.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/sifive/sifive-prci.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/spacemit/clk-k1.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/spacemit/clk_common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/starfive/clk-jh7110-pll.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/starfive/clk-jh7110.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/stm32/clk-stm32-core.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/stm32/clk-stm32f.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/stm32/clk-stm32h7.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/stm32/clk-stm32mp13.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/clk/ti/omap4-cm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/core/acpi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/core/devres.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/core/of_addr.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/cpu/bmips_cpu.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/crypto/fsl/error.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/crypto/fsl/jr.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/crypto/fsl/jr.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/crypto/hash/hash_sw.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/crypto/nuvoton/npcm_sha.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/altera/sdram_arria10.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/fsl/ctrl_regs.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/fsl/ddr1_dimm_params.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/fsl/ddr2_dimm_params.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/fsl/main.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_debug.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_patterns_64bit.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_training.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_training_db.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_training_hw_algo.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_training_ip_engine.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_training_ip_prv_if.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/ddr3_training_leveling.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/mv_ddr4_training_db.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/mv_ddr4_training_leveling.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/mv_ddr_plat.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_a38x.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_debug.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_patterns_64bit.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_training.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_training_db.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_training_hw_algo.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_training_ip_engine.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_training_ip_prv_if.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_training_leveling.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/a38x/old/ddr3_training_static.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ddr/marvell/axp/ddr3_patterns_64bit.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-am62.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-am62a.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-am62p.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-am64.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-am654.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-j721e.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-j721s2.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/dma/ti/k3-psil-j784s4.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/fastboot/fb_command.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/fastboot/fb_common.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/fastboot/fb_getvar.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/firmware/arm-ffa/arm-ffa-uclass.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/firmware/arm-ffa/arm-ffa.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/firmware/scmi/scmi_agent-uclass.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/fpga/altera.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/fpga/intel_sdm_mb.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/gpio/gpio-aspeed-sgpio.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/gpio/omap_gpio.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/i2c/fsl_i2c.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/i2c/geni_i2c.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/i2c/i2c-gpio.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/i2c/mxc_i2c.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/i2c/ocores_i2c.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/i2c/omap24xx_i2c.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/i3c/master.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/input/apple_spi_kbd.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/input/i8042.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/iommu/apple_dart.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mailbox/imx-mailbox.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/memory/stm32-fmc2-ebi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/misc/cros_ec.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/misc/imx_ele/fuse.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/misc/k3_avs.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/misc/rockchip-efuse.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/misc/rockchip-io-domain.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/misc/rockchip-otp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/bcmstb_sdhci.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/f_sdh30.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/fsl_esdhc_spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/gen_atmel_mci.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/mxsmmc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/octeontx_hsmmc.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/omap_hsmmc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/renesas-sdhi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/rockchip_sdhci.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mmc/tmio-common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/jedec_flash.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/mtdcore.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/am335x_spl_bch.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/atmel/nand-controller.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/atmel_nand.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/brcmnand/brcmnand.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/denali.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/fsl_elbc_spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/fsl_ifc_spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/mxc_nand_spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/nand_ecc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/nand_spl_load.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/nand_spl_simple.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/rockchip_nfc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/sand_nand.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/raw/stm32_fmc2_nand.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/alliancememory.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/ato.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/esmt.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/fmsh.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/foresee.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/gigadevice.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/macronix.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/micron.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/paragon.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/skyhigh.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/toshiba.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/winbond.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/nand/spi/xtx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/onenand/samsung.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/spi/fsl_espi_spl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/spi/sandbox.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/spi/spi-nor-core.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/ubi/crc32table.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/mtd/ubi/ubi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/airoha/pcs-airoha-common.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/airoha/pcs-airoha.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/altera_tse.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/bnxt/bnxt.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/dm9000x.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/dwc_eth_qos.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/dwc_eth_qos_rockchip.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/dwc_eth_xgmac.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/dwmac_meson8b.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/essedma.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/fec_mxc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/fm/fm.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/fsl_enetc_netc_blk_ctrl.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/gmac_rockchip.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/hifemac.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/ksz9477.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/macb.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/mscc_eswitch/luton_switch.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/mscc_eswitch/ocelot_switch.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/mscc_eswitch/serval_switch.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/mtk_eth/mt753x.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/mtk_eth/mtk_eth.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/phy/marvell10g.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/phy/mscc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/phy/ncsi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/ravb.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/sja1105.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/sni_ave.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/ti/cpsw.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/ti/davinci_emac.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/net/ti/icssg_config.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/nvme/nvme.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pci/pci-uclass.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pci/pci_rom.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pci/pcie_brcmstb.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pci/pcie_dw_imx.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pci/pcie_dw_qcom.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pci/pcie_iproc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pci/pcie_layerscape_fixup_common.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/cadence/phy-cadence-sierra.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/cadence/phy-cadence-torrent.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/marvell/comphy_core.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/omap-usb2-phy.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/phy-bcm-sr-pcie.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/phy-mtk-tphy.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/phy-mtk-ufs.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/phy-mtk-xsphy.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/phy-ti-am654.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/qcom/phy-qcom-qmp-combo.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/qcom/phy-qcom-qmp-pcie.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/qcom/phy-qcom-qusb2.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/renesas/r8a779f0-ether-serdes.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/renesas/r8a78000-ether-pcs.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/rockchip/phy-rockchip-inno-dsidphy.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/rockchip/phy-rockchip-inno-hdmi.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/rockchip/phy-rockchip-naneng-combphy.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/rockchip/phy-rockchip-snps-pcie3.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/rockchip/phy-rockchip-usbdp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/phy/ti-pipe3-phy.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/airoha/pinctrl-an7581.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/airoha/pinctrl-an7583.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/airoha/pinctrl-en7523.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/aspeed/pinctrl_ast2700_soc1.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/intel/pinctrl_apl.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/mediatek/pinctrl-mt7623.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/mediatek/pinctrl-mt8365.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/mediatek/pinctrl-mtk-common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/mtmips/pinctrl-mt7621.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/mtmips/pinctrl-mt7628.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/pinctrl-at91.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/qcom/pinctrl-qcom.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a7791.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a7792.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a7794.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a77951.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a7796.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a77965.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a77970.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a77980.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a77990.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/pfc-r8a77995.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/renesas/sh_pfc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/rockchip/pinctrl-rockchip.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/spacemit/pinctrl-k1.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/starfive/pinctrl-starfive.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pinctrl/tegra/funcmux-tegra20.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/domain/meson-ee-pwrc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/domain/qcom-rpmhpd.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/domain/renesas-r8a78000-power-domain.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/domain/ti-omap-prm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/pmic/mtk-pwrap.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/regulator/act8846.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/regulator/anatop_regulator.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/regulator/axp_regulator.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/regulator/max8907_regulator.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/regulator/qcom-rpmh-regulator.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/power/regulator/tps65941_regulator.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/pwm/sunxi_pwm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/aspeed/sdram_ast2700.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/bmips_ram.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/k3-ddrss/lpddr4_am6x.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/k3-ddrss/lpddr4_if.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/k3-ddrss/lpddr4_obj_if.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/octeon/octeon3_lmc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/renesas/dbsc5/qos.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/renesas/dbsc5/r8a779g0-dram.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/renesas/dbsc5/r8a78000-dram.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/rockchip/dmc-rk3368.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/rockchip/sdram_px30.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/rockchip/sdram_rk3066.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/rockchip/sdram_rk3188.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/rockchip/sdram_rk3288.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/rockchip/sdram_rk3399.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/rockchip/sdram_rv1126.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/stm32mp1/stm32mp1_ddr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/stm32mp1/stm32mp1_tests.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ram/sunxi/dram_sun20i_d1.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/remoteproc/imx_rproc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/remoteproc/ipu_rproc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/remoteproc/rproc-uclass.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/reset/reset-airoha.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/reset/reset-hsdk.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/reset/stm32/stm32-reset-core.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/rng/exynos-trng.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/rng/meson-rng.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/rng/rockchip_rng.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/rng/smccc_trng.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/rtc/davinci.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/serial/serial_msm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/serial/serial_mtk.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/serial/serial_omap.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/smem/msm_smem.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/soc/samsung/exynos-pmu.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/soc/soc_ti_k3.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/soc/ti/k3-navss-ringacc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/sound/max98088.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/sound/max98095.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/atmel-quadspi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/bcm63xx_spi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/cadence_xspi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/designware_spi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/fsl_dspi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/omap3_spi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/pic32_spi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/spi-aspeed-smc.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/stm32_ospi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/spi/stm32_qspi.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/sysreset/sysreset_mpc83xx.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/sysreset/sysreset_sbi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/tee/sandbox.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/tee/tee-uclass.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/timer/omap-timer.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/timer/tsc_timer.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/tpm/tpm_tis.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/ufs/ufs.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/cdns3/cdns3-ti.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/cdns3/core.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/common/fsl-dt-fixup.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/dwc3/dwc3-am62.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/dwc3/dwc3-generic.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/dwc3/dwc3-meson-g12a.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/dwc3/ti_usb_phy.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/asix.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/asix88179.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/lan75xx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/lan78xx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/mcs7830.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/r8152.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/r8152.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/eth/smsc95xx.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/at91_udc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/dwc2_udc_otg.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/f_dfu.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/f_mass_storage.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/f_rockusb.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/f_sdp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rcar/fifo.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rcar/fifo.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rcar/mod.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rcar/mod_gadget.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rcar/pipe.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rcar/pipe.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rndis.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/rndis.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/gadget/udc/udc-core.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/host/ehci-omap.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/host/ehci.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/musb-new/musb_core.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/musb-new/musb_dma.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/musb-new/omap2430.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/tcpm/fusb302.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/usb/tcpm/tcpm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/console_truetype.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/dw_hdmi.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/efi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/exynos/exynos_mipi_dsi_common.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/ilitek-ili9806e.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/imx/ipu.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/lm3532_backlight.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/lp855x_backlight.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/meson/meson_vpu_init.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/nexell/soc/s5pxx18_soc_dpc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/nexell/soc/s5pxx18_soc_mlc.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/nexell_display.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/rockchip/dw_mipi_dsi_rockchip.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/rockchip/rk_hdmi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/rockchip/rk_vop.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/video/stm32/stm32_lvds.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/watchdog/omap_wdt.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/watchdog/orion_wdt.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/watchdog/sunxi_wdt.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/xen/events.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/drivers/xen/pvblock.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/env/attr.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/examples/standalone/sched.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/btrfs/common/rbtree-utils.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/btrfs/extent-cache.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/fs.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/jffs2/jffs2_private.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/jffs2/mini_inflate.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/ubifs/debug.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/ubifs/super.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/ubifs/ubifs.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/fs/zfs/zfs.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/adc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/ahci.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/altera.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/api_public.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/arm_ffa.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/arm_ffa_priv.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/asm-generic/gpio.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/audio_codec.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/axi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/backlight.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bios_emul.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/blk.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/blkmap.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bloblist.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bmp_logo_data.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bootcount.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bootdev.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bootmeth.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bouncebuf.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/button.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/bzlib.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/cache.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/cadence-nand.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/clk-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/command.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/cpsw.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/cpu.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/cros_ec.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/crypto/ecdsa-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/cyclic.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dfu.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/display.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dm-demo.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dm/acpi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dm/device.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dm/devres.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dm/pinctrl.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dm/test.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dm/uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dma-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dsi_host.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dw_hdmi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/dwmmc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/edid.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/eeprom_field.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/eeprom_layout.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/efi_api.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/efi_config.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/efi_driver.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/efi_loader.h",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/efi_selftest.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/elf.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/env.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/env_attr.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/env_internal.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/ethsw.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/event.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/exports.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/extension_board.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/fastboot-internal.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/fastboot.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/fdt_region.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/fsl_ddr.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/fsl_ddr_sdram.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/fuzzing_engine.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/fwu.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/g_dnl.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/generic-phy.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/gzip.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/hash.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/hwspinlock.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/i2c.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/i2c_eeprom.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/i2s.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/i3c.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/image-sparse.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/image.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/imximage.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/input.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/interconnect-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/iommu.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/irq.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/jffs2/mini_inflate.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/k3_bist.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/keyboard.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/kgdb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/led.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/arm-smccc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/asn1_ber_bytecode.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/compat.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/fb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/i3c/device.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/i3c/master.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/ioport.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/kref.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/list_sort.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/bbm.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/mtd.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/nand.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/onenand.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/partitions.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/rawnand.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/spi-nor.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/spinand.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/mtd/ubi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/posix_types.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/psci.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/rbtree_augmented.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/soc/ti/ti_sci_protocol.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/usb/composite.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/usb/gadget.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/usb/musb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/usb/usb_urb_compat.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/linux/zstd_lib.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/log.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/mailbox-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/malloc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/mcheck.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/menu.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/miiphy.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/mipi_dsi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/misc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/mmc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/mux-internal.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/mxs_nand.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/net-common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/net-legacy.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/net/dsa.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/net/tcp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/net/udp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/netdev.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/os.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/p2sb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/panel.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/part.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pch.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pci.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pci_ep.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pci_rom.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/phy.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pmbus.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/post.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/power-domain-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/power/acpi_pmc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/power/cpcap.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/power/pmic.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/power/pmic_legacy.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/power/regulator.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pwm.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pwrseq.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/pxe_utils.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/qfw.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/ram.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/reboot-mode/reboot-mode.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/remoteproc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/reset-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/rkmtd.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/rng.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/rtc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/sandbox_host.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/scmi_agent-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/scmi_protocols.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/scsi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/sdhci.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/search.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/serial.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/setjmp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/sm-uclass.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/smem.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/soc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/sort.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/sound.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/spi-mem.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/spi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/spi_flash.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/spl.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/spmi/spmi.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/stdio_dev.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/sysinfo.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/sysreset.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/tee.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/test/fuzz.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/test/test.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/thermal.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/timer.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/tpm-common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/u-boot/hash.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/u-boot/rsa-mod-exp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/ubispl.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/uboot_aes.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/usb.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/usb/dwc2_udc.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/usb/tcpm.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/usb_mass_storage.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/usbdevice.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/uthread.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/vesa.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/video.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/video_bridge.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/video_console.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/video_osd.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/virtio.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/w1-eeprom.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/w1.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/wdt.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/xen/events.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/xilinx.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/xyzModem.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/zfs_common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/include/zynqmp_firmware.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/acpi/acpi_device.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/bitrev.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/bzip2/bzlib_crctable.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/charset.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/crc16.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/crc32.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/crc7.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/crypt/crypt.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/crypto/asymmetric_type.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/efi_client/efi_stub.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/efi_loader/efi_firmware.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/efi_selftest/efi_selftest_tcg2.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/elf.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/gzip.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/hashtable.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/libavb/avb_ops.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/list_sort.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/contrib/apps/shell/shell.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/contrib/examples/snmp/snmp_private_mib/lwip_prvmib.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/contrib/examples/snmp/snmp_v3/snmpv3_dummy.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/contrib/ports/unix/port/include/netif/list.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/contrib/ports/unix/port/netif/list.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/api/err.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/apps/smtp/smtp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/apps/snmp/snmp_core_priv.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/apps/snmp/snmp_mib2_interfaces.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/apps/snmp/snmp_mib2_ip.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/apps/snmp/snmp_mib2_tcp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/apps/snmp/snmp_mib2_udp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/apps/snmp/snmp_snmpv2_usm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/core/tcp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/acd.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/altcp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/api.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/fs.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/http_client.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/httpd.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/lwiperf.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/mdns.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/mqtt.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/smtp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/snmp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/snmp_core.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/snmp_scalar.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/snmp_table.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/snmp_threadsync.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/apps/tftp_common.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/dns.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/netif.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/pbuf.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/priv/altcp_priv.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/priv/api_msg.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/priv/tcpip_priv.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/raw.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/sys.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/tcp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/tcpip.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/timeouts.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/lwip/udp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/netif/ppp/chap-new.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/netif/ppp/ppp.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/netif/ppp/ppp_impl.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/include/netif/ppp/pppos.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/auth.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/ccp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/chap-new.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/eap.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/ecp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/ipcp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/ipv6cp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/lcp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/multilink.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/upap.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/src/netif/ppp/utils.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/test/fuzz/fuzz_common.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lwip/lwip/test/unit/arch/sys_arch.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lz4.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lzma/7zTypes.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/lzma/Compiler.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/oid_registry_data.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/pmbus.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/qsort.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/rbtree.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/smbios-parser.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/smbios.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/sscanf.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/tiny-printf.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/uthread.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/zlib/deflate.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/zstd/common/huf.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/zstd/decompress/huf_decompress.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/lib/zstd/decompress/zstd_decompress_block.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/net/lwip/net-lwip.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/net/net.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/net/tcp.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/andi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/cmp.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/cmpi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/cr.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/load.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/rlwimi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/rlwinm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/rlwnm.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/srawi.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/store.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/three.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/threei.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/threex.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/two.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/post/lib_powerpc/twox.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/dtc/checks.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/dtc/dtc-parser.tab.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/dtc/flattree.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/dtc/libfdt/fdt_strerror.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/dtc/pylibfdt/libfdt_wrap.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/kconfig/confdata.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/kconfig/expr.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/kconfig/lkc_proto.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/kconfig/lxdialog/dialog.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/kconfig/nconf.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/kconfig/preprocess.c",
+    "reasons": [
+      "func-ptr-member",
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/scripts/kconfig/zconf.tab.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/test/dm/acpigen.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/test/dm/blkmap.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/test/dm/regmap.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/test/image/spl_load.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/test/image/spl_load_fs.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/test/lib/compression.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/aisimage.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/asn1_compiler.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/bmp_logo.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/fdtgrep.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/gdb/serial.c",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/ifwitool.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/imagetool.h",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/imximage.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/mips-relocs.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/mxsimage.h",
+    "reasons": [
+      "array-init"
+    ]
+  },
+  {
+    "file": "/home/runner/work/u-boot/u-boot/tools/zynqmpbif.c",
+    "reasons": [
+      "func-ptr-member"
+    ]
+  }
+]
